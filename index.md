@@ -4,7 +4,7 @@ MDwiki is a CMS/Wiki **completely built in HTML5/Javascript and runs 100% on the
 
 Note: The website you are currently viewing is realized with MDwiki and hosted on [GitHub pages](http://pages.github.com/). [http://mdwiki.info](http://mdwiki.info) redirects here.
 
-[gimmick:twitterfollow](timodoerr)
+<!-- [gimmick:twitterfollow](timodoerr) -->
 
 ## Features
 
@@ -49,7 +49,7 @@ MDwiki would not exist if it weren't for those great pieces of software:
 - [colorbox][colorbox]
 - [highlightjs][highlightjs]
 
-MDwiki is created by Timo Dörr. Follow me to get updates on MDwiki! [Follow @timodoerr](http://www.twitter.com/timodoerr).
+MDwiki is created by Timo Dörr. Follow me to get updates on MDwiki!
 
 Cute kitten images provided by the great [placekitten.com] service.
 
