@@ -34,9 +34,9 @@
 
 [gimmick:theme (inverse: false)](spacelab)
 
-<!-- [gimmick:ThemeChooser](Change theme) -->
+[gimmick:ThemeChooser](Change theme)
 
-[gimmick:themechooser](readable)
+<!-- [gimmick:themechooser](readable) -->
 
 [gimmick:forkmeongithub](http://github.com/Dynalon/mdwiki/)
 
