@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# Your wiki name
+# TeamZ Wiki
 
 
 <!--
@@ -11,7 +11,7 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)
   -->
 
-[gimmick:theme](spacelab)
+[gimmick:theme](readable)
 
 
 <!--
@@ -19,7 +19,7 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[About](pages/about.md)
+[About Us](pages/about.md)
 [Download](pages/download.md)
 
 <!-- A more complex navigation example: ----------------------------------------
@@ -61,5 +61,5 @@
   -->
 
 <!--
-[gimmick:themechooser](Choose theme)
+[gimmick:themechooser](Choose Theme)
 -->
