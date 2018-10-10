@@ -36,7 +36,8 @@ MDwiki will load a file called `index.md` from the same directory as the index.h
 
 Note: There are lots more features over regular Markdown, check out the [quickstart tutorial][quickstart].
 
----
+<!--
+--- -->
 
 ## Credits / Technologies
 
