@@ -15,7 +15,7 @@
 
 [ToolSets](toolsets.md)
 
-[Tutorials]()
+[团队历程]()
 
 - [About the Tutorials](tutorials.md)
 
@@ -26,13 +26,12 @@
 - [Use with Dropbox](tutorials/dropbox.md)
 - [Set up MDwiki on IIS](tutorials/iis/iis.md)
 
-[Examples](examples.md)
-[Download](download.md)
-[Contribute](contribute/index.md)
-[Blog](blog.md)
-[Forum](forum.md)
+[我们的产品](examples.md)
+[联系我们](contribute/index.md)
+[TeamZ Blog](blog.md)
+[TeamZ 产品论坛](forum.md)
 
-[gimmick:theme (inverse: false)](spacelab)
+<!-- [gimmick:theme (inverse: false)](spacelab) -->
 
 <!-- [gimmick:ThemeChooser](Change theme) -->
 
