@@ -1,4 +1,9 @@
 {
+    "pageMenu": {
+        "disable":  false,
+        "returnAnchor": "[top]",
+        "useHeadings": "h1,h2,h3"
+    },
     "useSideMenu": true,
     "lineBreaks": "gfm",
     "additionalFooterText": "",
