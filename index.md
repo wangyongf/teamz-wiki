@@ -6,6 +6,12 @@ Note: The website you are currently viewing is realized with MDwiki and hosted o
 
 <!-- [gimmick:twitterfollow](timodoerr) -->
 
+Note: 你好呀，世界~
+
+Note: 我好呀，世界~
+
+Note: 晚安 💤，世界~
+
 ## Features
 
 - Built completely in Javascript/HTML5 and **does not require any local or remote installations**
@@ -35,9 +41,6 @@ MDwiki will load a file called `index.md` from the same directory as the index.h
     http://example.com/
 
 Note: There are lots more features over regular Markdown, check out the [quickstart tutorial][quickstart].
-
-<!--
---- -->
 
 ## Credits / Technologies
 
