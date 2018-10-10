@@ -1,6 +1,6 @@
 # TeamZ Wiki
 
-[About](index.md)
+[关于我们](index.md)
 
 [Docs]()
 
@@ -13,7 +13,7 @@
 - # Advanced
 - [Customizing](customizing.md)
 
-[Gimmicks](gimmicks.md)
+[ToolSets](toolsets.md)
 
 [Tutorials]()
 
@@ -34,9 +34,9 @@
 
 [gimmick:theme (inverse: false)](spacelab)
 
-[gimmick:ThemeChooser](Change theme)
+<!-- [gimmick:ThemeChooser](Change theme) -->
 
-<!-- [gimmick:themechooser](readable) -->
+[gimmick:themechooser](readable)
 
 [gimmick:forkmeongithub](http://github.com/Dynalon/mdwiki/)
 
